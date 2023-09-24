@@ -1,0 +1,14 @@
+About output folders
+--------------------
+Adding a table in BeMusicSeeker will result in a folder being created on your computer. This folder will be stored in one of two locations that you have to set up upon launching the program for the first time:
+
+Output (normal folder):
+This is the default location.
+Immediately after adding a table, BeMusicSeeker will store the folder corresponding to that table in the directory indicated in "Output (normal folder)" in the options.
+You can only set this directory to a folder that is already registered in your LR2 jukebox.
+
+Output (root folder):
+Additionally, if you right click on a table and go to Property → Custom folder and enable “Make root folder”, you can set a table to appear at the "root" of LR2's song select screen (the very first folders you see when you start the game, where the 段位認定 / COURSE folders are), allowing for faster access.
+When doing so, BeMusicSeeker will store the folder corresponding to the table in the directory indicated in "Output (root folder)" in the options
+You can set that directory to be any folder on your computer, but it must NOT be a folder that is already registered in your jukebox (or a subfolder of that folder).
+To make management easier, it is recommended to create a new folder on your computer dedicated to this purpose.

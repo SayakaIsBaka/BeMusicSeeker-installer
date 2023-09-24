@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd">
+  <assemblyIdentity name="BeMusicSeeker" processorArchitecture="msil" version="0.1.7374.5230" />
+  <file name="BeMusicSeeker.exe" />
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="mscorlib" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="PresentationFramework" publicKeyToken="31bf3856ad364e35" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="PresentationCore" publicKeyToken="31bf3856ad364e35" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="WindowsBase" publicKeyToken="31bf3856ad364e35" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Xaml" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Deployment" publicKeyToken="b03f5f7f11d50a3a" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="NLog" publicKeyToken="5120e14c03d0593c" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Livet" publicKeyToken="b0b1d3f711ef38cb" version="1.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="WindowsFormsIntegration" publicKeyToken="31bf3856ad364e35" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Windows.Forms" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Core" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.WindowsAPICodePack.Shell" publicKeyToken="31bf3856ad364e35" version="1.1.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Livet.Extensions" publicKeyToken="b0b1d3f711ef38cb" version="1.0.3.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Drawing" publicKeyToken="b03f5f7f11d50a3a" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Xml.Linq" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="SgmlReaderDll" publicKeyToken="46b2db9ca481831b" version="1.8.11.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="SevenZipExtractor" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="IniLibrary" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="sqlite.net" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Bass.Net" publicKeyToken="b7566c273e6ef480" version="2.4.12.1" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Collections.Immutable" publicKeyToken="b03f5f7f11d50a3a" version="1.2.1.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="QuickConverter" publicKeyToken="9c892aa7bc2af2cf" version="1.2.3.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="System.Xml" publicKeyToken="b77a5c561934e089" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.VisualBasic" publicKeyToken="b03f5f7f11d50a3a" version="10.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="Microsoft.CSharp" publicKeyToken="b03f5f7f11d50a3a" version="4.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity name="DynamicJson" version="1.0.0.0" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
