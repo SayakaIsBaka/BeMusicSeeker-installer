@@ -1,5 +1,5 @@
 # BeMusicSeeker-installer
-Unofficial mirror / installer of [BeMusicSeeker](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-正式版を公開しました-v034) by @rib2bit
+Unofficial mirror / installer of [BeMusicSeeker](https://tumblr.ribbit.xyz/post/129562866015/bemusicseeker-正式版を公開しました-v034) by [@rib2bit](https://github.com/rib2bit)
 
 ## Quick start
 Download installer in the [Releases](https://github.com/SayakaIsBaka/BeMusicSeeker-installer/releases/new) tab and run it. Installer has an option to migrate options from a previous regular BeMusicSeeker installation, you might want to check this if you are migrating from the official installer.
@@ -11,5 +11,9 @@ The reasons for this project are as following:
 - Have a more traditional application deployment method
 As the application is deployed using ClickOnce, the application's configuration file is also not stored in the regular folder for C# applications. The installer has a feature to automatically copy the configuration from a ClickOnce-deployed installation to the regular C# configuration folder.
 
+## Additions
+- Default table list is loaded from https://darksabun.github.io/table/tablelist.html (as the regular one was also hosted on ribbit.xyz)
+- Added a clarification note about output folders (regular and root), written by AYhaz
+
 ## License
-MIT. All rights related to BeMusicSeeker belong to @rib2bit.
+MIT. All rights related to BeMusicSeeker belong to [@rib2bit](https://github.com/rib2bit).
