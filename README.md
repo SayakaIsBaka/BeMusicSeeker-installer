@@ -14,6 +14,7 @@ As the application is deployed using ClickOnce, the application's configuration 
 ## Additions
 - Default table list is loaded from https://darksabun.github.io/table/tablelist.html (as the regular one was also hosted on ribbit.xyz)
 - Added a clarification note about output folders (regular and root), written by AYhaz
+- Replaced URLs for the chart viewer with an alternate one (hosted by myself, available at https://bms-score-viewer.pages.dev)
 
 ## License
 MIT. All rights related to BeMusicSeeker belong to [@rib2bit](https://github.com/rib2bit).
